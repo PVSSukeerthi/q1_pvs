@@ -5,3 +5,4 @@ for e in l:
     c=c+e
 print(c)   
 #put goggles to octopus
+#put hat on octopus
